@@ -1,0 +1,11 @@
+ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+demo-001,electric_bike,2025-01-06 07:15:00,2025-01-06 07:29:00,Canal St,KA1504000137,State St,TA1305000032,41.8837,-87.6377,41.8847,-87.6278,member
+demo-002,class_bike,2025-01-11 13:20:00,2025-01-11 13:48:00,Clark St,TA1307000139,Millennium Park,13008,41.9079,-87.6315,41.8810,-87.6241,casual
+demo-003,electric_bike,2025-02-04 08:03:00,2025-02-04 08:19:00,Canal St,KA1504000137,Clinton St,WL-012,41.8837,-87.6377,41.8856,-87.6418,member
+demo-004,electric_bike,2025-02-08 16:42:00,2025-02-08 17:05:00,Clark St,TA1307000139,Canal St,KA1504000137,41.9079,-87.6315,41.8837,-87.6377,casual
+demo-004,electric_bike,2025-02-08 16:42:00,2025-02-08 17:05:00,Clark St,TA1307000139,Canal St,KA1504000137,41.9079,-87.6315,41.8837,-87.6377,casual
+demo-005,class_bike,2025-02-10 09:00:00,2025-02-10 09:00:00,State St,TA1305000032,Clark St,TA1307000139,41.8847,-87.6278,41.9079,-87.6315,member
+demo-006,electric_bike,2025-02-11 10:00:00,2025-02-12 11:00:01,Canal St,KA1504000137,State St,TA1305000032,41.8837,-87.6377,41.8847,-87.6278,member
+demo-007,electric_bike,2025-02-13 12:00:00,2025-02-13 12:10:00,Clark St,TA1307000139,Canal St,KA1504000137,41.9079,-87.6315,41.8837,-87.6377,visitor
+demo-008,electric_bike,not-a-timestamp,2025-02-14 12:10:00,Clark St,TA1307000139,Canal St,KA1504000137,41.9079,-87.6315,41.8837,-87.6377,member
+demo-009,electric_bike,2025-02-15 12:00:00,2025-02-15 12:20:00,,,,,,,,,member
